@@ -126,7 +126,7 @@ class _PostViewState extends State<PostView> {
                           ),
                           child: const Center(
                             child: Text(
-                              'There are no posts yet.\nLog in with an admin account to create your first post!',
+                              'There are no posts yet.\nBe the first to create a post!',
                               style: TextStyle(fontSize: 18),
                               textAlign: TextAlign.center,
                             ),

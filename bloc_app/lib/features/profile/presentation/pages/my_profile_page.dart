@@ -1,5 +1,4 @@
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:core/constants.dart';
 import 'package:core/utils.dart';
 import 'package:domain/auth.dart';
 import 'package:flutter/material.dart';
@@ -123,7 +122,7 @@ class MyProfileView extends StatelessWidget {
         floatingActionButton:
             BlocBuilder<AuthenticationBloc, AuthenticationState>(
               builder: (context, state) {
-                if (state.user?.role == Roles.admin) {
+                if (state.user != null) {
                   return FloatingActionButton(
                     heroTag: null,
                     onPressed: () {
@@ -151,21 +150,17 @@ class _ProfileContent extends StatelessWidget {
     return RefreshIndicator(
       onRefresh: () async {
         context.read<ProfileBloc>().add(MyProfileFetched());
-        if (profile.role == Roles.admin) {
-          context.read<MyPostListBloc>().add(
-            MyPostListRefreshed(userId: profile.id),
-          );
-        }
+        context.read<MyPostListBloc>().add(
+          MyPostListRefreshed(userId: profile.id),
+        );
       },
       child: NotificationListener<ScrollNotification>(
         onNotification: (notification) {
           if (notification.metrics.pixels >=
               notification.metrics.maxScrollExtent - 200) {
-            if (profile.role == Roles.admin) {
-              context.read<MyPostListBloc>().add(
-                MyPostListNextPageFetched(userId: profile.id),
-              );
-            }
+            context.read<MyPostListBloc>().add(
+              MyPostListNextPageFetched(userId: profile.id),
+            );
           }
           return false;
         },
@@ -203,18 +198,16 @@ class _ProfileContent extends StatelessWidget {
                   'Role: ${profile.role}',
                   style: Theme.of(context).textTheme.titleMedium,
                 ),
-                if (profile.role == Roles.admin) ...[
-                  const SizedBox(height: 32),
-                  const Divider(),
-                  Padding(
-                    padding: const EdgeInsets.symmetric(vertical: 16),
-                    child: Text(
-                      'My Posts',
-                      style: Theme.of(context).textTheme.headlineSmall,
-                    ),
+                const SizedBox(height: 32),
+                const Divider(),
+                Padding(
+                  padding: const EdgeInsets.symmetric(vertical: 16),
+                  child: Text(
+                    'My Posts',
+                    style: Theme.of(context).textTheme.headlineSmall,
                   ),
-                  MyPostList(userId: profile.id),
-                ],
+                ),
+                MyPostList(userId: profile.id),
               ],
             ),
           ),
