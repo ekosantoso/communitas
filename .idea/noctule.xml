@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NoctuleWorkspaceSettings">
+    <fileSettings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\arm64-v8a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/arm64-v8a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\armeabi-v7a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/armeabi-v7a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\x86\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/x86/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\x86_64\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/x86_64/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\arm64-v8a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/arm64-v8a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\armeabi-v7a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/armeabi-v7a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\x86\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/x86/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\x86_64\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/x86_64/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\workspace_python\communitas\bloc_app\ios\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
+        <projectSettings projectType="noctule.spm">
+          <filePath>$PROJECT_DIR$/bloc_app/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\workspace_python\communitas\bloc_app\macos\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
+        <projectSettings projectType="noctule.spm">
+          <filePath>$PROJECT_DIR$/bloc_app/macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
+        </projectSettings>
+      </settings>
+    </fileSettings>
+  </component>
+</project>

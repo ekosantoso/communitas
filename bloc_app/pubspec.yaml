@@ -1,0 +1,61 @@
+name: bloc_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  # Supabase
+  supabase_flutter: ^2.13.1
+  flutter_dotenv: ^6.0.0
+
+  # State Management
+  get_it: ^9.2.1
+  injectable: ^3.0.0
+  bloc: ^9.1.0
+  flutter_bloc: ^9.1.1
+
+  # Routing
+  go_router: ^17.3.0
+
+  # Data Class & Functional Programming
+  equatable: ^2.0.7
+  fpdart: ^1.1.1
+
+  # UI & Utilities
+  cached_network_image: ^3.4.1
+  image_picker: ^1.2.0
+  intl: ^0.20.2
+  uuid: ^4.5.1
+  string_validator: ^1.2.0
+  stream_transform: ^2.1.1
+
+  core:
+    path: ../package/core
+  domain:
+    path: ../package/domain
+  data_supabase:
+    path: ../package/data_supabase
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  build_runner: ^2.10.1
+  injectable_generator: ^3.1.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - .env
