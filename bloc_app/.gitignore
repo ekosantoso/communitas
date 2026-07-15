@@ -45,3 +45,8 @@ app.*.map.json
 /android/app/release
 
 *.env
+
+# Android signing (keep credentials out of version control)
+/android/key.properties
+*.jks
+*.keystore

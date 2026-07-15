@@ -1,4 +1,4 @@
-package com.example.bloc_app
+package com.forum.communitas
 
 import io.flutter.embedding.android.FlutterActivity
 

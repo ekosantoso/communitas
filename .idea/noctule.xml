@@ -2,54 +2,84 @@
 <project version="4">
   <component name="NoctuleWorkspaceSettings">
     <fileSettings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\arm64-v8a\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\mg3v6k51\arm64-v8a\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/arm64-v8a/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/mg3v6k51/arm64-v8a/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\armeabi-v7a\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\mg3v6k51\armeabi-v7a\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/armeabi-v7a/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/mg3v6k51/armeabi-v7a/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\x86\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\mg3v6k51\x86\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/x86/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/mg3v6k51/x86/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\71225b92\x86_64\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\Debug\mg3v6k51\x86_64\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/71225b92/x86_64/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/Debug/mg3v6k51/x86_64/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\arm64-v8a\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\104kx1i1\arm64-v8a\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/arm64-v8a/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/104kx1i1/arm64-v8a/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\armeabi-v7a\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\104kx1i1\armeabi-v7a\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/armeabi-v7a/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/104kx1i1/armeabi-v7a/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\x86\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\104kx1i1\x86\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/x86/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/104kx1i1/x86/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\profile\x86_64\compile_commands.json">
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\104kx1i1\x86_64\compile_commands.json">
         <projectSettings projectType="sourcekit.compilationDatabase">
-          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/profile/x86_64/compile_commands.json</filePath>
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/104kx1i1/x86_64/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\workspace_python\communitas\bloc_app\ios\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
-        <projectSettings projectType="noctule.spm">
-          <filePath>$PROJECT_DIR$/bloc_app/ios/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\4b52e5b4\arm64-v8a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/4b52e5b4/arm64-v8a/compile_commands.json</filePath>
         </projectSettings>
       </settings>
-      <settings filePath="C:\workspace_python\communitas\bloc_app\macos\Flutter\ephemeral\Packages\FlutterGeneratedPluginSwiftPackage\Package.swift">
-        <projectSettings projectType="noctule.spm">
-          <filePath>$PROJECT_DIR$/bloc_app/macos/Flutter/ephemeral/Packages/FlutterGeneratedPluginSwiftPackage/Package.swift</filePath>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\4b52e5b4\armeabi-v7a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/4b52e5b4/armeabi-v7a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\4b52e5b4\x86\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/4b52e5b4/x86/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\RelWithDebInfo\4b52e5b4\x86_64\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/RelWithDebInfo/4b52e5b4/x86_64/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\release\arm64-v8a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/release/arm64-v8a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\release\armeabi-v7a\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/release/armeabi-v7a/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\release\x86\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/release/x86/compile_commands.json</filePath>
+        </projectSettings>
+      </settings>
+      <settings filePath="C:\Users\bamba\AppData\Local\Pub\Cache\hosted\pub.dev\jni-1.0.0\android\.cxx\tools\release\x86_64\compile_commands.json">
+        <projectSettings projectType="sourcekit.compilationDatabase">
+          <filePath>$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/jni-1.0.0/android/.cxx/tools/release/x86_64/compile_commands.json</filePath>
         </projectSettings>
       </settings>
     </fileSettings>
