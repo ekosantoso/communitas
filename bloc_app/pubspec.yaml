@@ -3,7 +3,7 @@ description: "A new Flutter project."
 
 publish_to: "none"
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: ^3.10.2
@@ -53,6 +53,14 @@ dev_dependencies:
   flutter_lints: ^6.0.0
   build_runner: ^2.10.1
   injectable_generator: ^3.1.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  image_path: "assets/icon/app_icon_clean.png"
+  android: "ic_launcher"
+  min_sdk_android: 21
+  ios: true
+  remove_alpha_ios: true
 
 flutter:
   uses-material-design: true
